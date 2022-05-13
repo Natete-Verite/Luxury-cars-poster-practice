@@ -1,0 +1,106 @@
+.cars{
+    display: flex;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+.sedans{
+    background-color: #E2852A;
+    padding: 4%;
+}
+.carOne{
+    width: 20%;
+    background-color: #B46B1F;
+    border-radius: 50px;
+    margin-left: -3%;
+    margin-top: 2%;
+}
+.sedans h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 40px;
+    margin-bottom: 10%;
+    color: #FFFFFF;
+}
+.sedans p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    margin-bottom: 10%;
+    color: #FFFFFF;
+}
+#MoreOnSedans{
+    background-color: #FFFFFF;
+    border: none;
+    border-radius: 20px;
+    width: 40%;
+    padding: 4%;
+    text-align: center;
+    color: #E2852A;
+
+}
+.suvs{
+    background-color: #236973;
+    padding: 4%;
+}
+.carTwo{
+    width: 20%;
+    background-color: #1B545B;
+    border-radius: 50px;
+    margin-left: -3%;
+    margin-top: 2%;
+}
+.suvs h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 40px;
+    margin-bottom: 10%;
+    color: #FFFFFF;
+}
+.suvs p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    margin-bottom: 10%;
+    color: #FFFFFF;
+}
+#MoreOnSuv{
+    background-color: #FFFFFF;
+    border: none;
+    border-radius: 20px;
+    width: 40%;
+    padding: 4%;
+    text-align: center;
+    color: #236973;
+
+}
+.luxury{
+    background-color: #14403F;
+    padding: 4%;
+}
+.carThree{
+    width: 20%;
+    background-color: #0F3431;
+    border-radius: 50px;
+    margin-left: -3%;
+    margin-top: 2%;
+}
+.luxury h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 40px;
+    margin-bottom: 10%;
+    color: #FFFFFF;
+}
+.luxury p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    margin-bottom: 10%;
+    color: #FFFFFF;
+}
+#MoreOnLuxury{
+    background-color: #FFFFFF;
+    border: none;
+    border-radius: 20px;
+    width: 40%;
+    padding: 4%;
+    text-align: center;
+    color: #14403F;
+}
